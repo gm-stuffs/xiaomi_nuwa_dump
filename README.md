@@ -1,0 +1,14 @@
+# missi_phone_global-user 13 TKQ1.220905.001 V14.0.13.0.TMBMIXM release-keys
+- manufacturer: xiaomi
+- platform: kalama
+- codename: nuwa
+- flavor: missi_phone_global-user
+- release: 13
+- id: TKQ1.220905.001
+- incremental: V14.0.13.0.TMBMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/nuwa_global/nuwa:13/TKQ1.220905.001/V14.0.13.0.TMBMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi_phone_global-user-13-TKQ1.220905.001-V14.0.13.0.TMBMIXM-release-keys
+- repo: xiaomi_nuwa_dump
